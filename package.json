@@ -1,0 +1,23 @@
+{
+  "name": "practicas_curso_cypress",
+  "version": "1.0.0",
+  "description": "Se crea este repositorio para realizar las prcaticas del curso de Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarVillagran/Practicas_Curso_Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarVillagran/Practicas_Curso_Cypress/issues"
+  },
+  "homepage": "https://github.com/CesarVillagran/Practicas_Curso_Cypress#readme",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}
